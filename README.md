@@ -48,7 +48,7 @@ $ cd my-project
 $ python3 forecast.py "Gran Via Street 28,Madrid"
 ```
 And you'll get forecast information as output!:
-![Output Example](http://ordermin.com/images/python-weather-forecast-output.png)
+![Output Example](output-example.png)
 
 > Note: Forecast API is free until 1000 requests per day. For more information, check their FAQ: https://darksky.net/dev/docs/faq
 
